@@ -1,4 +1,5 @@
 <!-- Init: WELCOME TO MY DIGITAL LAB -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux" />
   <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python" />
@@ -11,12 +12,11 @@
   </code>
 </p>
 
-
-[🇬🇧 English](#english) | [🇪🇸 Español](#español) | [🇩🇪 Deutsch](#deutsch)
+[🇬🇧 English](#english) | [🇪🇸 Español](#espanol) | [🇩🇪 Deutsch](#deutsch)
 
 ---
 
-## English
+<h2 id="english">🇬🇧 English</h2>
 
 ```bash
 ┌─[fbarquez@mainframe]─[~/]
@@ -31,8 +31,6 @@ Developer | Explorer of Systems & Code | Cyber & ML Curious
 - Passionate about Python, cybersecurity, ML, cloud
 - This profile is my digital lab, console and portfolio
 
----
-
 ### Projects
 
 ```bash
@@ -45,8 +43,6 @@ Developer | Explorer of Systems & Code | Cyber & ML Curious
 └── reverse-shell-gen/      # Script for educational pentesting
 ```
 
----
-
 ### Tech Stack
 
 ```bash
@@ -57,14 +53,7 @@ Tooling:        Git, VSCode, AWS, GitHub Actions
 
 ---
 
-### GitHub Stats
-
-![fbarquez's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbarquez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbarquez&layout=compact&theme=radical)
-
----
-
-## Español
+<h2 id="espanol">🇪🇸 Español</h2>
 
 ```bash
 ┌─[fbarquez@mainframe]─[~/]
@@ -79,19 +68,9 @@ Desarrollador | Explorador de sistemas | Curioso de la ciberseguridad y ML
 - Interesado en Python, seguridad, ML y cloud
 - Este perfil es mi laboratorio digital y consola de experimentación
 
-### Proyectos
-
-```bash
-├── net-scan/               # Herramienta de escaneo de red
-├── ml-playground/          # Notebooks de machine learning
-├── pic-temp-sensor/        # Sistema embebido con PIC
-├── boto3-scripts/          # Automatización de AWS con Python
-└── reverse-shell-gen/      # Pentesting ético y educativo
-```
-
 ---
 
-## Deutsch
+<h2 id="deutsch">🇩🇪 Deutsch</h2>
 
 ```bash
 ┌─[fbarquez@mainframe]─[~/]
@@ -105,12 +84,3 @@ Entwickler | System-Explorer | Sicherheits- & ML-Interessierter
 - Erfahrung mit Embedded Systems (C/C++, STM32, PIC)
 - Interesse an Python, Sicherheit, ML und Cloud
 - Dieses Profil ist mein digitales Labor und Terminal
-
-### Projekte
-
-```bash
-├── net-scan/               # Netzwerk-Scanner in Python
-├── ml-playground/          # Machine Learning Experimente
-├── pic-temp-sensor/        # Mikrocontroller Temperaturmessung
-├── boto3-scripts/          # AWS-Automatisierung mit Python
-└── reverse-shell-gen/      # Reverse Shell Generator für Studienzwecke
