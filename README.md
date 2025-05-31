@@ -1,12 +1,11 @@
 <!-- Init: WELCOME TO MY DIGITAL LAB -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python3-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Language-C/C++-brightgreen?logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+  <img src="https://img.shields.io/badge/C/C++-LowLevel-lightgrey?logo=cplusplus" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Field-Data%20Science-lightgrey?logo=pandas" />
-  <img src="https://img.shields.io/badge/Role-Product%20Manager-blueviolet?logo=producthunt" />
   <img src="https://img.shields.io/badge/Security-Cybersecurity-red?logo=kalilinux" />
+
 </p>
 
 <p align="center">
