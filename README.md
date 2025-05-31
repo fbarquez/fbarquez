@@ -12,7 +12,7 @@
 </p>
 
 
-[🇬🇧 English](#-english) | [🇪🇸 Español](#-español) | [🇩🇪 Deutsch](#-deutsch)
+[🇬🇧 English](#english) | [🇪🇸 Español](#español) | [🇩🇪 Deutsch](#deutsch)
 
 ---
 
