@@ -12,11 +12,7 @@
   </code>
 </p>
 
-[🇬🇧 English](#english) | [🇪🇸 Español](#espanol) | [🇩🇪 Deutsch](#deutsch)
-
 ---
-
-<h2 id="english">🇬🇧 English</h2>
 
 ```bash
 ┌─[fbarquez@mainframe]─[~/]
@@ -51,36 +47,3 @@ Environments:   Linux, Docker, STM32, PIC
 Tooling:        Git, VSCode, AWS, GitHub Actions
 ```
 
----
-
-<h2 id="espanol">🇪🇸 Español</h2>
-
-```bash
-┌─[fbarquez@mainframe]─[~/]
-└──╼ $ whoami
-Desarrollador | Explorador de sistemas | Curioso de la ciberseguridad y ML
-```
-
-### Resumen
-
-- Estudiante de máster en Ingeniería Informática
-- Experiencia con sistemas embebidos (C/C++, STM32, PIC)
-- Interesado en Python, seguridad, ML y cloud
-- Este perfil es mi laboratorio digital y consola de experimentación
-
----
-
-<h2 id="deutsch">🇩🇪 Deutsch</h2>
-
-```bash
-┌─[fbarquez@mainframe]─[~/]
-└──╼ $ whoami
-Entwickler | System-Explorer | Sicherheits- & ML-Interessierter
-```
-
-### Zusammenfassung
-
-- Masterstudent in Computer Engineering
-- Erfahrung mit Embedded Systems (C/C++, STM32, PIC)
-- Interesse an Python, Sicherheit, ML und Cloud
-- Dieses Profil ist mein digitales Labor und Terminal
