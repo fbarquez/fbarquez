@@ -1,9 +1,12 @@
 <!-- Init: WELCOME TO MY DIGITAL LAB -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux" />
-  <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-red?logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Language-Python3-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Language-C/C++-brightgreen?logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-lightgrey?logo=pandas" />
+  <img src="https://img.shields.io/badge/Role-Product%20Manager-blueviolet?logo=producthunt" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-red?logo=kalilinux" />
 </p>
 
 <p align="center">
@@ -17,14 +20,14 @@
 ```bash
 ┌─[fbarquez@mainframe]─[~/]
 └──╼ $ whoami
-Developer | Explorer of Systems & Code | Cyber & ML Curious
+Developer | Machine Learning & Data Science Enthusiast | Cybersecurity Curious | Product Thinker
 ```
 
 ### Profile Summary
 
 - Master's student in Computer Engineering
 - Background in embedded systems (C/C++, STM32, PIC)
-- Passionate about Python, cybersecurity, ML, cloud
+- Passionate about Python, AI/ML, product development and security
 - This profile is my digital lab, console and portfolio
 
 ### Projects
@@ -44,7 +47,14 @@ Developer | Explorer of Systems & Code | Cyber & ML Curious
 ```bash
 Languages:      Python, C, C++, Bash
 Environments:   Linux, Docker, STM32, PIC
-Tooling:        Git, VSCode, AWS, GitHub Actions
+Tools:          Git, VSCode, AWS, GitHub Actions, Jupyter, Scikit-learn
 ```
 
-Nueva línea
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fbarquez&show_icons=true&theme=radical" alt="fbarquez GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarquez&layout=compact&theme=radical" alt="Top languages" />
+</p>
