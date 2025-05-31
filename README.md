@@ -27,6 +27,7 @@ Developer | Machine Learning & Data Science Enthusiast | Cybersecurity Curious |
 - Master's student in Computer Engineering
 - Background in embedded systems (C/C++, STM32, PIC)
 - Passionate about Python, AI/ML, product development and security
+- Interested in building intelligent tools with a product-oriented mindset  
 - This profile is my digital lab, console and portfolio
 
 ### Projects
